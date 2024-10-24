@@ -1,4 +1,4 @@
-<h1 span style="color:DarkCyan;">Improve Your CV</h1>
+<h1 span style="color:DarkCyan;">Jobb API</h1>
 
 <h5>Overview</h5>
 
